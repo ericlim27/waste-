@@ -1,11 +1,14 @@
-# Current models
-<ol>
-  <li>Dataset 1 - Pradyumn, Nandar</li>
-  <li>Dataset 11 - DA, KD</li>
-  <li>Dataset 11 - Ramya, Sudhanva</li>
-</ol>
+---
+title: Garbage-Classifier-v1
+emoji: 🗑 ♻️ 🚮
+colorFrom: blue
+colorTo: yellow
+sdk: gradio
+sdk_version: 3.1.1
+app_file: app.py
+pinned: false
+python_version: 3.7.6
+---
 
-# Pending tasks
-<ol>
-  <li>Undersampling of 'clothes' class in DS11</li>
-</ol>
+- [**LINK FOR THE APP : Classifier_v1**](https://huggingface.co/spaces/Dinoking/Garbage_Classifier_v1)
+
